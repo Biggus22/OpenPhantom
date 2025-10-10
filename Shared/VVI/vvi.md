@@ -1,5 +1,5 @@
 Vertical Velocity Indicator
 
-> ino
-> proposed wiring
-> step (TBD)
+* ino
+* proposed wiring
+* step (TBD)
