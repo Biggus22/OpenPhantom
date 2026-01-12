@@ -13,3 +13,4 @@ Cabling
 0,96" 128x64 I2C OLED
 2x 5x2x2,5 ball bearings
 2x 12mm limit switches
+1x Iduino SE056 Gap Sensor
