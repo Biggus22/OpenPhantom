@@ -1,0 +1,15 @@
+1x Rotary THT Encoder, 6mm shaft
+8x 5mm LEDs
+1x Arduino Nano (second nano in the VVI)
+1x x27.168 automotive stepper motor
+1x SG90 9g 180deg servo
+Assorted M3x10/20 standoffs, washers, nuts and M3x10 bolts
+M4 mounting bolts
+M2.5x8 bolts
+Cabling
+1x 2x100 mm axle
+2x 3x100 mm axle
+0,91" 128x32 I2C OLED
+0,96" 128x64 I2C OLED
+2x 5x2x2,5 ball bearings
+2x 12mm limit switches
